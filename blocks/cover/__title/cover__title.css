@@ -1,0 +1,17 @@
+.cover__title {
+    margin: 0 auto;
+    width: 288px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 35px;
+    color: #fff; /* Цвет текста (белый) */
+}
+
+@media (min-width: 768px){
+    .cover__title{
+        font-size: 72px;
+        line-height: 76px;
+        width: auto;
+    }
+}

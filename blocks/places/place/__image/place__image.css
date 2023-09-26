@@ -1,0 +1,19 @@
+.place__image {
+    width: calc(100% - 32px);
+    margin-left: 16px;  
+    align-self: start;
+}
+
+@media (min-width: 768px){
+    .place__image {
+        margin-left: 0px;   
+        width: 100%;
+    }
+}
+
+@media (min-width: 1024px){    
+    .place__image {
+        margin-left: 0px;   
+        width: 100%;
+    }
+}

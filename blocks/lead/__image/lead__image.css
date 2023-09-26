@@ -1,0 +1,17 @@
+.lead__image {
+    width: 100%;
+    min-width: 320px;
+    min-height: 200px;
+    margin: auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    border: 2px dotted olivedrab;
+}
+
+@media (min-width: 1024px){
+    .lead__image{
+        min-width: 928px;
+        min-height: 580px;
+    }
+}

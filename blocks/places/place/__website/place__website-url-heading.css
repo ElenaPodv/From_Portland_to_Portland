@@ -1,0 +1,12 @@
+.place__website-url-heading {
+    color: #AAA;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2.4px;
+}
+
+@media (min-width: 1024px){    
+    .place__website {        
+        margin-left: 0px; 
+    }
+}

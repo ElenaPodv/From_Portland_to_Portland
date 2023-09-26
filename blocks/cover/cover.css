@@ -1,0 +1,26 @@
+
+.cover {
+    position: relative; 
+    min-width: 320px;
+    width: 100%;
+    max-width: 100%; /* Добавлено для уверенности */
+    min-height: 200px;
+    padding-top: 62.5%;
+    background-image: url(../../images/__background.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    margin-bottom: 64px;  
+}
+    
+@media (min-width: 768px){
+    .cover{
+        margin-bottom: 70px;  
+        width: 100%;
+    }
+}
+
+@media (min-width: 1024px){
+    .cover{
+        margin-bottom: 72px;  
+    }
+}

@@ -1,0 +1,6 @@
+.lead{
+    display: block;
+    width: 100%;
+    margin: 0 auto 64px;
+    border: 2px solid violet;
+}
