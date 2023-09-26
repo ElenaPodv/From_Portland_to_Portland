@@ -1,7 +1,6 @@
 .header-lang-links {
     display: flex;
     align-items: flex-end;
-    border: 3px solid orchid;
 }
 
 .header__lang-link{
