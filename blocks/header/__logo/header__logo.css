@@ -1,6 +1,7 @@
 .header__logo {
     width: 156px;
     height: 36px;
+    border: 2px darkseagreen dashed;
 }
 
 @media (min-width: 768px){
