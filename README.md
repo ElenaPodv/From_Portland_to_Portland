@@ -2,6 +2,8 @@
 This is a static website project titled "From Portland to Portland." It showcases an epic bicycle journey from Portland, ME, to Portland, OR. The project uses HTML and CSS with BEM (Block Element Modifier) methodology for clean and maintainable code. 
 [GitHub page link]( https://elenapodv.github.io/From-Portland-to-Portland/)
 
+Prototype Link:    
+(https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?type=design&node-id=2%3A2&mode=design&t=3u3fWpd1YGSJWERy-1)
 
 ## Table of content
 * [Tecnologies](#tecnologies)
@@ -27,6 +29,7 @@ This is a static website project titled "From Portland to Portland." It showcase
     + [Making Contributions](#making-contributions)
     + [Creating a Pull Request](#creating-a-pull-request)
     + [Contact](#contact)
+* [Source Links](#Source_Links) 
 * [License](#license)
 
 ## Tecnologies  
@@ -147,5 +150,9 @@ Thank you for your contributions to ** From Portland to Portland **! Together, w
 Credits
 -This project uses the Normalize.css library for cross-browser consistency.
 -Images used in the project are for demonstration purposes only and belong to their respective owners.
+## Source Links    
+htmlbook.ru (https://htmlbook.ru/)    
+@FreelancerLifeStyle (https://www.youtube.com/watch?v=BeG9Bg6Q_30&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)    
+
 ## License
 The ** From Portland to Portland** website is open-source and distributed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
