@@ -151,8 +151,8 @@ Credits
 -This project uses the Normalize.css library for cross-browser consistency.
 -Images used in the project are for demonstration purposes only and belong to their respective owners.
 ## Source Links    
-htmlbook.ru (https://htmlbook.ru/)    
-@FreelancerLifeStyle (https://www.youtube.com/watch?v=BeG9Bg6Q_30&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)    
+- htmlbook.ru (https://htmlbook.ru/)    
+- @FreelancerLifeStyle (https://www.youtube.com/watch?v=BeG9Bg6Q_30&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)    
 
 ## License
 The ** From Portland to Portland** website is open-source and distributed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
