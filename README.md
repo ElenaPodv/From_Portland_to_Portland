@@ -5,7 +5,7 @@ This is a static website project titled "From Portland to Portland." It showcase
 
 ## Table of content
 * [Tecnologies](#tecnologies)
-* [Project Objective](#Project Objective)
+* [Project Objective](#Project_Objective)
 * [Project Structure](#project-structure) 
   + [1.Index.html](#1.Index.html)
       + [Header](#Header)
