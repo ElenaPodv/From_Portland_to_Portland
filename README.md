@@ -1,6 +1,31 @@
 # From-Portland-to-Portland
 This is a static website project titled "From Portland to Portland." It showcases an epic bicycle journey from Portland, ME, to Portland, OR. The project uses HTML and CSS with BEM (Block Element Modifier) methodology for clean and maintainable code. 
 [GitHub page link]( https://elenapodv.github.io/From-Portland-to-Portland/)
+
+## Project Objective
+
+The primary objective of the "From Portland to Portland" project is to create a static website that vividly portrays an extraordinary bicycle journey spanning from Portland, Maine (ME), to Portland, Oregon (OR). This endeavor encompasses a variety of specific goals, methodologies, and technologies:
+
+1. **Static Website Development**: The project focuses on creating a static website, ensuring that the content remains consistent and doesn't dynamically change based on user interactions or external data.
+
+2. **HTML and CSS Implementation**: The core technologies employed in this project are HTML (HyperText Markup Language) and CSS (Cascading Style Sheets). These languages are instrumental in constructing the website's structure and defining its visual presentation.
+
+3. **BEM Methodology**: The project adheres to the BEM (Block Element Modifier) methodology for writing organized, modular, and easily maintainable CSS code. This approach enhances code clarity and streamlines the development process.
+
+4. **Responsive Design**: The website is meticulously designed to be responsive, guaranteeing optimal viewing experiences across various devices and screen sizes. This is achieved through the integration of media queries and flexible layouts.
+
+5. **CSS Animations**: To enhance user engagement and add visual interest, CSS animations may be implemented. These animations can be utilized to draw attention to specific elements or provide subtle visual feedback.
+
+6. **Effective Content Organization**: The content is thoughtfully structured into distinct sections, such as lead, intro, photo grid, places, and cover sections. This segmentation facilitates an organized and engaging narrative of the journey.
+
+7. **Version Control (Git)**: The Git version control system is employed to manage the project's source code. This enables collaborative development, tracks changes, and maintains a comprehensive history of the codebase.
+
+8. **Documentation (README.md)**: A well-crafted README.md file provides extensive information about the project, including its structure, installation instructions, guidelines for contributions, and license details.
+
+9. **Open Source Contribution**: The project embraces an open-source philosophy and is distributed under the MIT License. This encourages contributions from the community, allowing others to use, modify, and distribute the code under the terms of the license.
+
+By aligning with these specific objectives, the "From Portland to Portland" project aims to deliver an informative and visually captivating website that effectively narrates the bicycle journey between these two prominent cities. It combines technical proficiency with best practices to offer a high-quality user experience.
+
 ## Table of content
 * [Tecnologies](#tecnologies)
 * [Project Structure](#project-structure) 
