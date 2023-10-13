@@ -145,7 +145,7 @@ Create a new branch for your contribution:
 If you have questions, suggestions, or need assistance, you can reach out to us:
 - Email: olena.podvoiska@gmail.com
 - GitHub: [ElenaPodv](https://github.com/ElenaPodv)
-Thank you for your contributions to ** From Portland to Portland **! Together, we're making this project even better.
+Thank you for your contributions to **From Portland to Portland**! Together, we're making this project even better.
 ##Credits
 Credits
 -This project uses the Normalize.css library for cross-browser consistency.
